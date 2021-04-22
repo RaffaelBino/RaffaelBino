@@ -2,11 +2,11 @@
   Hi there 👋 I'm Raffael 👨‍💻
 </h1>
 
-<img src="image/Code-typing-bro.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaffaelBino">
+<img src="image/Code-typing-bro1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaffaelBino">
 <!-- <a href="https://storyset.com/work">Illustration by Freepik Storyset</a> -->
 
 <p align="left"> 
-  Olá meu nome é Raffael, sou Desenvolvedor <strong>Web</strong> e Desenvolvedor de <strong>Front-End</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Raffael, sou <strong>Desenvolvedor Web</strong> e <strong>Desenvolvedor de Front-End</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 
