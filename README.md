@@ -2,7 +2,7 @@
   Hi there 👋 I'm Raffael 👨‍💻
 </h1>
 
-<img src="/image/Code-typing-amico" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaffaelBino">
+<img src="image/Code-typing-amico.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaffaelBino">
 <!-- <a href="https://storyset.com/work">Illustration by Freepik Storyset</a> -->
 
 <p align="left"> 
