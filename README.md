@@ -2,7 +2,7 @@
   Hi there 👋 I'm Raffael 👨‍💻
 </h1>
 
-<img src="image/Code-typing-amico.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaffaelBino">
+<img src="image/Code-typing-bro.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaffaelBino">
 <!-- <a href="https://storyset.com/work">Illustration by Freepik Storyset</a> -->
 
 <p align="left"> 
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trello-026aa7?style=flat&logo=trello&logoColor=white" />
   </p>
 </p>
 
