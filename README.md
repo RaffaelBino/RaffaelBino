@@ -48,9 +48,14 @@
   <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raffaelbino/"/></a>
 </p>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=RaffaelBino&theme=vue-dark)](https://github.com/RaffaelBino/)
 
-[![RaffaelBino](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaelBino&layout=compact&theme=vue-dark)](https://github.com/RaffaelBino/)
+<a href="https://github.com/RaffaelBino/RaffaelBino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaffaelBino&theme=vue-dark" alt="Raffael's github stats" />
+</a>
+
+<a href="https://github.com/RaffaelBino/RaffaelBino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaelBino&layout=compact&theme=vue-dark" />
+</a>
 <!--
 **RaffaelBino/RaffaelBino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
