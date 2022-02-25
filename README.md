@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
     <img src="https://img.shields.io/badge/-Trello-026aa7?style=flat&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/VTEX-F71963?style=flat&logo=vtex&logoColor=white" />
   </p>
 </p>
 
