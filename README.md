@@ -42,10 +42,12 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/-Trello-026aa7?style=flat&logo=trello&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/VTEX-F71963?style=flat&logo=vtex&logoColor=white" />
+    <img src="https://img.shields.io/badge/VTEX-ED125F?style=flat&logo=vtex&logoColor=white" />
   </p>
 </p>
 
@@ -55,7 +57,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raffaelbino/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raffaelbino/"/></a>
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raffaelbino/"/></a>
 </p>
 
 <a href="https://github.com/RaffaelBino">
