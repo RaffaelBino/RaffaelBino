@@ -6,7 +6,7 @@
 <!-- <a href="https://storyset.com/work">Illustration by Freepik Storyset</a> -->
 
 <p align="left"> 
-   Olá! Me chamo Raffael e trabalho como <strong>Desenvolvedor Front-End</strong>, com foco em Angular. Com 2 anos de experiência, busco aprimorar minhas habilidades nesse framework e acompanhar as mudanças constantes no universo do desenvolvimento Front-End.
+   Olá! Me chamo Raffael e trabalho como <strong>Desenvolvedor Front-End</strong>, com foco em Angular. Busco aprimorar minhas habilidades nesse framework e acompanhar as mudanças constantes no universo do desenvolvimento Front-End.
 </p>
 
 <p align="left">
